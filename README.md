@@ -145,7 +145,7 @@ expresses our intent.
 ## Instructions
 
 Time to get some practice! Write your code in the `looping.rb` file. Run
-`learn test` to check your work. Your goal is to practice using control flow in
+`bin/rspec` to check your work. Your goal is to practice using control flow in
 Ruby to familiarize yourself with the syntax. There is a JavaScript version of
 the solution for each of these deliverables in the `js/index.js` file you can
 look at (but if you want an extra challenge, try solving them in Ruby without
